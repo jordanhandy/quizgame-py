@@ -1,3 +1,12 @@
+##################################################################
+# Quiz Game 
+# Description:
+# This program uses the OpenTrivia API to 
+# generate a list of questions for the user,
+# asks these questions, and asks the user if they would like
+# to play again, after tallying their score.
+##################################################################
+
 # Modules
 import requests  # Http requests
 import json  # parsing JSON
